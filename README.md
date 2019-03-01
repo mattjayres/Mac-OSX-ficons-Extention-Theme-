@@ -4,6 +4,8 @@ Version 1.0.
 Matt Ayres
 mattjayres@gmail.com
 
+Original ficons artist:
+https://www.fadyucf.com
 
 This is an extension of Fady Youssef's free Mac OSX icon pack, ficons. 
 If you have any requests for icons, email me and I will implement them. 
