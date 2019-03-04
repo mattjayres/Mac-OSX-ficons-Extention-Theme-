@@ -7,7 +7,7 @@ mattjayres@gmail.com
 Original ficons artist:
 https://www.fadyucf.com
 
-This is an extension of Fady Youssef's free Mac OSX icon pack, ficons. 
+This is an extension of Fady Youssef's free Mac OSX icon pack, ficons. .png files are icons I added and .icns files are the original icons in the pack. 
 If you have any requests for icons, email me and I will implement them. 
 
 
