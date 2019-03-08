@@ -1,6 +1,6 @@
 # Mac-OSX-ficons-Extention-Theme-
 
-Version 1.01
+Version 1.02
 Matt Ayres
 mattjayres@gmail.com
 
